@@ -1,8 +1,4 @@
-/**
- * 
- */
-/**
- * 
- */
+
 module chess_system {
+	
 }
